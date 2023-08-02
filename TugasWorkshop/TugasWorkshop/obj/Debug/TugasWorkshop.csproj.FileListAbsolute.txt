@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\bin\Debug\TugasWorkshop.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\bin\Debug\TugasWorkshop.exe
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\bin\Debug\TugasWorkshop.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.exe
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.pdb
